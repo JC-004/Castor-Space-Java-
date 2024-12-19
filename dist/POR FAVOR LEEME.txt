@@ -1,0 +1,10 @@
+teclas de juego:
+arriba=w
+derecha=d
+izquierda=a
+disparo=p
+
+!Gracias por tomarte el tiempo de probar mi juego¡
+Muy pronto viene un juego en unity ya que java solo 
+no ayuda mucho al desarrollo de juego
+Los recursos son escazos
