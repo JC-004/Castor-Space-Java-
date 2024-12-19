@@ -1,0 +1,3 @@
+SINOPSIS:
+Este es un juego hecho en JAVA donde somos un castor que esta en el espacio, el objetivo:
+-Destruir la mayor cantidad de rocas posibles, pero no sera facil cada vez iran aumentado...
